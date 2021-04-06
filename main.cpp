@@ -1,3 +1,4 @@
+// Miguel Matul Calderón - 26682
 #include <iostream>
 
 using namespace std;
@@ -59,7 +60,7 @@ int main()
 	}
 
 	cout << endl << endl;
-	
+
 	//ENTRADA DE DATOS
-	system("pause");
+	//system("pause");
 }
